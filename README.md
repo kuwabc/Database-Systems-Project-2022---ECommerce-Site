@@ -6,4 +6,4 @@ For Fall of 2022 at Montclair State, CSIT 355 requires its students to construct
 
 I had chosen to make a website based off of an existing IP, since the project had required us to choose a character to base the project off of. 
 
-The current look of the website is extremely basic, and not entirely polished, but this is due to the fact that most of the project was focused on having an operating backend - but I am providing files for the project so people can view them, or reference them if needed with links to sources, as well. 
+The current look of the website is extremely basic, and not entirely polished, but this is due to the fact that most of the project was focused on having an operating backend.
